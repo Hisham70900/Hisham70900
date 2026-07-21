@@ -177,7 +177,7 @@ Machine learning model to predict customer order volume using historical busines
 Python • Pandas • Scikit-learn
 
 🔗 **Repository:**  
-Coming Soon
+https://github.com/Hisham70900/Number_Of_Orders_Prediction
 
 </td>
 </tr>
