@@ -108,7 +108,9 @@ AI-powered network intrusion detection using Autoencoder, Random Forest, and Iso
 Python • Scikit-learn • TensorFlow • Pandas • NumPy
 
 🔗 **Repository:**  
-https://github.com/Hisham70900/intrusion-detection-system
+<a href="https://github.com/Hisham70900/intrusion-detection-system">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -121,7 +123,9 @@ Interactive Streamlit dashboard for cricket analytics with player comparison, se
 Python • Streamlit • Plotly • Pandas
 
 🔗 **Repository:**  
-https://github.com/Hisham70900/cricket-analytics-dashboard
+<a href="https://github.com/Hisham70900/cricket-analytics-dashboard">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -136,7 +140,9 @@ Exploratory Data Analysis of IPL datasets with professional visualizations and k
 Python • Pandas • Matplotlib • Seaborn
 
 🔗 **Repository:**  
-https://github.com/Hisham70900/IPL-Insights-Data-Analysis
+<a href="https://github.com/Hisham70900/IPL-Insights-Data-Analysis">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -149,7 +155,9 @@ Real-time hand sign recognition using computer vision and machine learning.
 Python • OpenCV • MediaPipe • Scikit-learn
 
 🔗 **Repository:**  
-https://github.com/Hisham70900/hand
+<a href="https://github.com/Hisham70900/hand">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -179,7 +187,9 @@ Machine learning model to predict customer order volume using historical busines
 Python • Pandas • Scikit-learn
 
 🔗 **Repository:**  
-https://github.com/Hisham70900/Number_Of_Orders_Prediction
+<a href="https://github.com/Hisham70900/Number_Of_Orders_Prediction">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
