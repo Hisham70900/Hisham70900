@@ -140,8 +140,8 @@ Exploratory Data Analysis of IPL datasets with professional visualizations and k
 Python • Pandas • Matplotlib • Seaborn
 
 🔗 **Repository:**  
-<a href="https://github.com/Hisham70900/IPL-Insights-Data-Analysis">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Hisham70900/cricketiq-dashboard">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
