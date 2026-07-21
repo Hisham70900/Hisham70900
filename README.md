@@ -5,7 +5,7 @@ Aspiring Data Analyst • AI & Data Science Graduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+%26+Data+Science+Graduate;Python+Developer;Machine+Learning+Enthusiast;SQL+%7C+Power+BI+Learner;Building+Real+World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;SQL+%7C+Power+BI+Learner;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
@@ -22,19 +22,20 @@ Aspiring Data Analyst • AI & Data Science Graduate
   </a>
 </p>
 
----
+<p align="center">
+<i>Turning data into meaningful insights through analytics, visualization, and machine learning.</i>
+</p>
 
-> **"Turning data into meaningful insights through analytics, visualization, and machine learning."**
 
+**👨‍💻 About Me!!**
 
-👨‍💻 About Me
+- 🎓 AI & Data Science Graduate
+- 📊 Aspiring Data Analyst passionate about solving real-world business problems using data.
+- 💻 Skilled in **Python, SQL, HTML, CSS, Java, Pandas, NumPy, and Scikit-learn**.
+- 📈 Currently learning **Power BI**, **Advanced SQL**, and **Dashboard Development**.
+- 🚀 Interested in **Data Analytics, Machine Learning, Business Intelligence, and Data Visualization**.
+- 🌱 Always eager to learn new technologies and build impactful projects.
 
-🎓 AI & Data Science Graduate...
-📊 Aspiring Data Analyst...
-💻 Skilled in Python, SQL...
-📈 Currently learning Power BI...
-🚀 Interested in Data Analytics...
-🌱 Always eager to learn...
 
 ## 🛠️ Tech Stack
 
