@@ -95,3 +95,93 @@ Aspiring Data Analyst • AI & Data Science Graduate
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Intrusion Detection System
+AI-powered network intrusion detection using Autoencoder, Random Forest, and Isolation Forest.
+
+**Tech Stack:**  
+Python • Scikit-learn • TensorFlow • Pandas • NumPy
+
+🔗 **Repository:**  
+https://github.com/Hisham70900/intrusion-detection-system
+
+</td>
+
+<td width="50%">
+
+### 🏏 CricketIQ Dashboard
+Interactive Streamlit dashboard for cricket analytics with player comparison, season insights, and venue analysis.
+
+**Tech Stack:**  
+Python • Streamlit • Plotly • Pandas
+
+🔗 **Repository:**  
+https://github.com/Hisham70900/cricket-analytics-dashboard
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 IPL Insights Data Analysis
+Exploratory Data Analysis of IPL datasets with professional visualizations and key performance insights.
+
+**Tech Stack:**  
+Python • Pandas • Matplotlib • Seaborn
+
+🔗 **Repository:**  
+https://github.com/Hisham70900/IPL-Insights-Data-Analysis
+
+</td>
+
+<td width="50%">
+
+### 🤟 Sign Language Detection
+Real-time hand sign recognition using computer vision and machine learning.
+
+**Tech Stack:**  
+Python • OpenCV • MediaPipe • Scikit-learn
+
+🔗 **Repository:**  
+https://github.com/Hisham70900/hand
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌦️ Weather Application
+Desktop weather application providing real-time weather updates with a clean user interface.
+
+**Tech Stack:**  
+Python • Tkinter • Weather API
+
+🔗 **Repository:**  
+https://github.com/Hisham70900/weather-app
+
+</td>
+
+<td width="50%">
+
+### 📦 Number of Orders Prediction
+Machine learning model to predict customer order volume using historical business data.
+
+**Tech Stack:**  
+Python • Pandas • Scikit-learn
+
+🔗 **Repository:**  
+Coming Soon
+
+</td>
+</tr>
+</table>
+
+---
+
