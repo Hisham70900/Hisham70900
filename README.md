@@ -195,7 +195,13 @@ https://github.com/Hisham70900/Number_Of_Orders_Prediction
 </p>
 
 ---
+## 👀 Profile Views
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hisham70900&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 ---
 
 
