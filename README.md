@@ -57,3 +57,41 @@ Aspiring Data Analyst • AI & Data Science Graduate
 🚀 Interested in Data Analytics...
 🌱 Always eager to learn...
 
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
+</p>
+
+### 📊 Data Analytics & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📈 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboard_Development-0A66C2?style=for-the-badge" />
+</p>
+
+---
+
