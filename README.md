@@ -164,7 +164,9 @@ Desktop weather application providing real-time weather updates with a clean use
 Python • Tkinter • Weather API
 
 🔗 **Repository:**  
-https://github.com/Hisham70900/weather-app
+<a href="https://github.com/Hisham70900/weather-app">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -225,6 +227,9 @@ https://github.com/Hisham70900/Number_Of_Orders_Prediction
 </p>
 
 ---
+## 💡 Fun Fact
+
+> I enjoy transforming raw data into meaningful insights and building projects that solve real-world problems.
 ---
 
 
