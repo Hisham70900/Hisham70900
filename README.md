@@ -13,7 +13,7 @@ Aspiring Data Analyst • AI & Data Science Graduate
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[(https://hisham70900.github.io/Portfolio-V2/)/](https://hisham70900.github.io/Portfolio-V2/)">
+  <a href="[[(https://hisham70900.github.io/Portfolio-V2/)/](https://hisham70900.github.io/Portfolio-V2/)](https://hisham70900.github.io/Portfolio-V2/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 
